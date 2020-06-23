@@ -29,14 +29,13 @@
 
 - 大二上：web三件套，jquery，c#,bootstrap
 
-  - web+jquery+bootstrap：自适应的web网页(仿bbs聚合论坛)
-  - c#、.Net:剪刀石头布的实战题目
+  - [web+jquery+bootstrap：自适应的web网页(仿bbs聚合论坛)](大二上\传统web-同城聚合)
+  - ==[c#、.Net:剪刀石头布的实战题目]()==
 
 - 大二下：
-  - java+mysql：一个简单的java swing+mysql(学生信息管理系统)
-  - vue+uniapp：vue 手机app前端开发(商
-城+社区)
-  - 商城
+  - ==[java+mysql：一个简单的java swing+mysql(学生信息管理系统)]()==
+  - ==[vue+uniapp：vue 手机app前端开发(商城+社区)]()==
+  - ==商城==
 
 
 
@@ -73,3 +72,5 @@ php、python、go
 
 *黄线的是要补的作业
 
+---
+[点击查看近期日程](日程.md)
