@@ -2,7 +2,7 @@
 
 找工作用的简历。持续更新。
 
-<!-- 网址： -->
+网址：[https://violetbenin.github.io/ForJob/](https://violetbenin.github.io/ForJob/)
 
 <!-- --- -->
 
