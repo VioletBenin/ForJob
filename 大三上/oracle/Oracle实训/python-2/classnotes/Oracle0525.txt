@@ -1,0 +1,57 @@
+课前准备：
+
+上课时间：
+10-17周：
+周一、周五：16:10-18:00
+双周周三：10:10-12:00
+大家提前十分钟进直播间
+
+学习平台：https://www.eec-cn.com/：最好用谷歌进
+
+可以在平台上进入直播间；看课件；做作业、实验，提交作业和实验，分享授课笔记等资料
+
+考核方式：平时10%+实验20%+期末考试70%
+考勤：U易课堂：每次课考勤2次
+
+第一章
+一、Oracle数据库配置
+1.Oracle概述
+1)Oracle版本：Oracle9i（基于intenet）、Oracle10g（基于网格grid），Oracle11g（基于grid），Oracle12c（基于云计算cloud）,……
+
+2)Oracle是对象关系型的数据库管理系统
+   1.基于对象的——类似于面向对象的编程语言java
+
+创建数据库表：
+   create table student
+(
+sno
+name
+age
+);
+
+   2.关系型数据库 ：数据库中表的形式是一张二维表
+
+student表：
+    sno            name     age
+      1                张三     18
+      2                李四      20
+    
+
+2.Orace服务器端、客户端安装、卸载
+
+Oracle数据库的安装：
+Oracle11g数据库服务器完整版：Oracle11gR2.rar
+Oracle客户端工具：PLSQL Developer 8.0.3.1510.zip免安装版，解压之后可以直接使用
+
+Oracle数据库服务器卸载：
+1.笔记本windows图标+R快捷键---输入services.msc---可以自动打开系统服务（也可以通过控制面板--管理工具--服务），把所有以Oracle开头的服务都停止
+2.使用程序中的Universal Installer卸载所有Oracle产品
+3.打开注册表，删除注册表中有关Oracle的相关信息（略）
+4.删除电脑中Oracle的相关文件
+5.重启电脑，Oracle卸载完毕
+
+
+3.Oracle具体配置及体系结构
+
+
+
