@@ -64,6 +64,12 @@
    - [Oracle实训：商城项目](大三上\oracle)
      - [点击此处👉在线看此项目的演示ppt](https://violetbenin.github.io/ORACLE_PRACTICAL_TRAINING/)
  
+
+- 毕业设计：
+  - 同城鲜花
+
+
+
 <!-- ## 希望学到
 
 网站运维/大数据/cs架构/做一个完整项目的经验，也希望交一些朋友
